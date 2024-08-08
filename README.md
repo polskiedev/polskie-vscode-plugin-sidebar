@@ -1,0 +1,1 @@
+# polskie-vscode-plugin-sidebar
